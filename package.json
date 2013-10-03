@@ -1,0 +1,12 @@
+{
+    "name": "brackets-go",
+    "title": "Golang Syntax for brackets",
+    "description": "Provides golang syntax highlight via a CodeMirror mode for Brackets.",
+    "homepage": "",
+    "version": "0.0.1",
+    "author": "Leivince John Marte",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.31.0"
+    }
+}
