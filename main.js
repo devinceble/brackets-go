@@ -1,4 +1,3 @@
-
 define(function (require, exports, module) {
     'use strict';
 
@@ -232,5 +231,5 @@ define(function (require, exports, module) {
     fileExtensions: ["go"],
     blockComment: ["/*","*/"],
     lineComment: ["//","//"]
-});
+    });
 });

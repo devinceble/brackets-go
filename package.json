@@ -1,6 +1,7 @@
 {
     "name": "brackets-go",
     "title": "Golang Syntax for brackets",
+    "homepage": "https://github.com/devinceble/brackets-go",
     "description": "Provides golang syntax highlight via a CodeMirror mode for Brackets.",
     "homepage": "",
     "version": "0.0.1",
