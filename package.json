@@ -3,10 +3,10 @@
     "title": "Golang Syntax for brackets",
     "homepage": "https://github.com/devinceble/brackets-go",
     "description": "Provides golang syntax highlight via a CodeMirror mode for Brackets.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "author": "Leivince John Marte",
     "license": "MIT",
     "engines": {
-        "brackets": ">=0.31.0"
+        "brackets": ">=1.5.0"
     }
 }
